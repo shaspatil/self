@@ -1,0 +1,13 @@
+com\guru\qa\pageobject\Deposite.class
+com\guru\qa\utility\XLUtils.class
+com\guru\qa\pageobject\Homepage.class
+com\guru\qa\pageobject\Newaccount.class
+com\guru\qa\base\Testbase.class
+com\guru\qa\testcase\editing.class
+com\guru\qa\testcase\addingdetails.class
+com\guru\qa\testcase\Markone.class
+com\guru\qa\utility\ExtentReporterNG.class
+com\guru\qa\testcase\Depositetest.class
+com\guru\qa\pageobject\loginpage.class
+com\guru\qa\pageobject\edit.class
+com\guru\qa\testcase\Newacctest.class

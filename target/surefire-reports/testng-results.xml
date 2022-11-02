@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-01T17:16:37 IST" name="Suite" finished-at="2022-11-01T17:17:31 IST" duration-ms="53742">
+    <groups>
+    </groups>
+    <test started-at="2022-11-01T17:16:37 IST" name="Test" finished-at="2022-11-01T17:17:31 IST" duration-ms="53742">
+      <class name="com.guru.qa.testcase.editing">
+        <test-method is-config="true" signature="initialwebdriver()[pri:0, instance:com.guru.qa.testcase.editing@4445629]" started-at="2022-11-01T17:17:14 IST" name="initialwebdriver" finished-at="2022-11-01T17:17:21 IST" duration-ms="6843" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialwebdriver -->
+        <test-method signature="ggggg()[pri:0, instance:com.guru.qa.testcase.editing@4445629]" started-at="2022-11-01T17:17:21 IST" name="ggggg" finished-at="2022-11-01T17:17:30 IST" duration-ms="9304" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ggggg -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.guru.qa.testcase.editing@4445629]" started-at="2022-11-01T17:17:30 IST" name="teardown" finished-at="2022-11-01T17:17:31 IST" duration-ms="281" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.guru.qa.testcase.editing -->
+      <class name="com.guru.qa.testcase.Markone">
+        <test-method is-config="true" signature="initialwebdriver()[pri:0, instance:com.guru.qa.testcase.Markone@18ce0030]" started-at="2022-11-01T17:16:58 IST" name="initialwebdriver" finished-at="2022-11-01T17:17:05 IST" duration-ms="6876" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialwebdriver -->
+        <test-method signature="goon()[pri:0, instance:com.guru.qa.testcase.Markone@18ce0030]" started-at="2022-11-01T17:17:05 IST" name="goon" finished-at="2022-11-01T17:17:14 IST" duration-ms="8870" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goon -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.guru.qa.testcase.Markone@18ce0030]" started-at="2022-11-01T17:17:14 IST" name="teardown" finished-at="2022-11-01T17:17:14 IST" duration-ms="320" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.guru.qa.testcase.Markone -->
+      <class name="com.guru.qa.testcase.Depositetest">
+        <test-method is-config="true" signature="initialwebdriver()[pri:0, instance:com.guru.qa.testcase.Depositetest@6ce139a4]" started-at="2022-11-01T17:16:37 IST" name="initialwebdriver" finished-at="2022-11-01T17:16:51 IST" duration-ms="13875" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialwebdriver -->
+        <test-method signature="goforit()[pri:0, instance:com.guru.qa.testcase.Depositetest@6ce139a4]" started-at="2022-11-01T17:16:51 IST" name="goforit" finished-at="2022-11-01T17:16:58 IST" duration-ms="6853" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goforit -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.guru.qa.testcase.Depositetest@6ce139a4]" started-at="2022-11-01T17:16:58 IST" name="teardown" finished-at="2022-11-01T17:16:58 IST" duration-ms="494" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.guru.qa.testcase.Depositetest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
